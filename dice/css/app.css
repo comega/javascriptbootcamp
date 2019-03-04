@@ -1,0 +1,30 @@
+
+
+div.container {
+
+    width: 600px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+
+
+.score{
+    width: 250;
+    height:350;
+    padding: 20px;
+    border-radius: 20px;
+    /* float: left; */
+    margin: 40px 0;
+}
+
+.first-user{
+
+    background-color: #b8b8b8;
+}
+
+.second-user{
+
+    background-color: #c8e8d8;
+}
