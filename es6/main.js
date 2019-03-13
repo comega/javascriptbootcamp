@@ -72,10 +72,24 @@
 
 
 
-// setTimeout(()=>{
-//     console.log("salma");
-// },1000);
+setTimeout(()=>{
 
+},1000);
+
+
+
+
+
+// var promis1 = new Promise((resolve,reject)=>{
+
+//     console.log("asdfdsaf");    
+//     return resolve("ok");
+
+// });
+
+// promis1.then(function(val){
+//     console.log(val);
+// });
 
 // /// Ajax ////
 
@@ -85,6 +99,11 @@
 // data;
 
 // var obj3 = '{"name":"ali"}';
+
+
+
+
+
 
 
 
